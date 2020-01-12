@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="cell1">Cell1</string>
+    <string name="cell2">Cell2</string>
+    <string name="cell3">Cell3</string>
+    <string name="cell4">Cell4</string>
+    <string name="cell5">Cell5</string>
+    <string name="cell6">Cell6</string>
+    <string name="cell7">Cell7</string>
+    <string name="cell8">Cell8</string>
+    <string name="cell9">Cell9</string>
+    <string name="player_win">Player win</string>
+    <string name="restart">Restart</string>
+    <string name="gameover">Nobody Win</string>
+</resources>
